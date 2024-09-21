@@ -8,5 +8,6 @@ def outer_function():
         print("inner function ",x)  # Output: 30
     inner_function()
     print("outer function" ,x)  # Output: 20
+    
 outer_function()
 print(x)  # Output: 10
