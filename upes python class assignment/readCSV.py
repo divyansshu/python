@@ -1,4 +1,4 @@
-#program to read csv file and return a list
+#program to read csv file and return a list.
 
 filename = 'data.csv'
 
