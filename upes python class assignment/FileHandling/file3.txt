@@ -1,0 +1,4 @@
+learning
+how to write
+into a file
+by providing a list of strings
